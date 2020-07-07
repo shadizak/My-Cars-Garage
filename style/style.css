@@ -1,0 +1,44 @@
+#title{
+    color: white;
+    text-align: center;
+    font-size: 60px;
+    margin-top: 0;
+    padding-top: 30px;
+    text-decoration: none;
+}
+nav{
+    background-color: #202020;
+    height: 130px;
+    margin-top: 0px;
+}
+body{
+     margin:0;
+    height: 100%;
+    width: 100%;
+    background-image: url(../img/page-background.jpg);
+    background-repeat:no-repeat;
+    background-size: 100%;
+
+ }
+ #allDivs{
+     margin-left: 150px;
+    margin-top: 200px;
+  }
+ #divFormAddNewCar{
+    float: left;
+    width: 450px;
+    
+    background-color: rgb(143, 0, 0,.8);
+    height: 350px;
+ }
+ #divCarTable{
+     float: left;
+
+ }
+ 
+#addNewCar{
+    color:white;
+    margin-top: 50px;
+     font-size: 18px;
+    text-align: center;
+  }
